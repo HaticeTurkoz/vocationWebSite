@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\css",
+    "\\font-awesome-4.7.0",
+    "\\img",
+    "\\js",
+    "\\slick",
+    "\\videos"
   ],
+  "SelectedNode": "\\js\\bootstrap.min.js",
   "PreviewInSolutionExplorer": false
 }
